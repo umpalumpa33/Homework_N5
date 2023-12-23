@@ -1,0 +1,28 @@
+.fjords, .forest, .mountains, .northenlights {
+    position: relative;
+    display: inline-block;
+    border: 1px solid rgb(168, 168, 168);
+    text-align: center;
+    margin-right: 10px;
+}
+
+.fjords:hover, .forest:hover, .mountains:hover, .northenlights:hover {
+    border: 2px solid black;
+}
+
+#mountains_id {
+    height: 200px;
+}
+
+#forest_img {
+    height: 200px;
+}
+
+img {
+    width: 300px;
+}
+
+.images {
+    margin: 0 auto;
+    text-align: center;
+}
